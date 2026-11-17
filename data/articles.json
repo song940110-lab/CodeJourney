@@ -24,5 +24,20 @@
       "DOM",
       "前端"
     ]
+  },
+  {
+    "id": "php-basics",
+    "title": "PHP 基礎入門",
+    "category": "php",
+    "date": "2026-11-17",
+    "summary": "認識 PHP 標記、變數、條件判斷、陣列及表單資料的基本處理方式。",
+    "file": "articles/php/php-basics.md",
+    "tags": [
+      "PHP",
+      "基礎語法",
+      "變數",
+      "陣列",
+      "表單"
+    ]
   }
 ]
