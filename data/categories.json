@@ -1,0 +1,38 @@
+[
+  {
+    "id": "python",
+    "name": "Python",
+    "icon": "PY",
+    "description": "語法基礎、函式、套件與自動化。"
+  },
+  {
+    "id": "php",
+    "name": "PHP",
+    "icon": "PHP",
+    "description": "伺服器端開發、表單處理與網頁應用。"
+  },
+  {
+    "id": "flutter",
+    "name": "Flutter",
+    "icon": "FL",
+    "description": "Dart 語言、Widget 與跨平台 App。"
+  },
+  {
+    "id": "javascript",
+    "name": "JavaScript",
+    "icon": "JS",
+    "description": "瀏覽器互動、DOM 與前端程式。"
+  },
+  {
+    "id": "database",
+    "name": "Database",
+    "icon": "DB",
+    "description": "SQL、MySQL 與資料庫設計。"
+  },
+  {
+    "id": "ai-llm",
+    "name": "AI & LLM",
+    "icon": "AI",
+    "description": "生成式 AI、Prompt、RAG 與 Agent。"
+  }
+]

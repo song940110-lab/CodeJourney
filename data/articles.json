@@ -1,0 +1,28 @@
+[
+  {
+    "id": "python-functions",
+    "title": "Python 函式入門",
+    "category": "python",
+    "date": "2026-11-17",
+    "summary": "認識函式的用途、參數與回傳值，讓程式更容易重複使用與維護。",
+    "file": "articles/python/python-functions.md",
+    "tags": [
+      "Python",
+      "函式",
+      "基礎"
+    ]
+  },
+  {
+    "id": "javascript-dom-basics",
+    "title": "JavaScript DOM 基礎",
+    "category": "javascript",
+    "date": "2026-11-17",
+    "summary": "了解 JavaScript 如何選取及操作 HTML 文件中的元素。",
+    "file": "articles/javascript/javascript-dom-basics.md",
+    "tags": [
+      "JavaScript",
+      "DOM",
+      "前端"
+    ]
+  }
+]
